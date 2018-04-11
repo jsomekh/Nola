@@ -1,1 +1,5 @@
-print("Hi Nola")
+myNola<-function()
+{
+  print("Hi Nola")
+}
+
