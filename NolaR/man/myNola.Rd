@@ -13,4 +13,3 @@ myNola()
 This function allows you to print hi Nola.
 }
 \keyword{nola}
-
