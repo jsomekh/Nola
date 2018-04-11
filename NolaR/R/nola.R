@@ -6,5 +6,6 @@
 myNola<-function()
 {
   print("Hi Nola")
+  print("Hi Jinjit")
 }
 
